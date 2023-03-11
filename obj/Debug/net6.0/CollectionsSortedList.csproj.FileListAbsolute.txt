@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\bin\Debug\net6.0\CollectionsSortedList.exe
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\bin\Debug\net6.0\CollectionsSortedList.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\bin\Debug\net6.0\CollectionsSortedList.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\bin\Debug\net6.0\CollectionsSortedList.dll
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\bin\Debug\net6.0\CollectionsSortedList.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.dll
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\refint\CollectionsSortedList.dll
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\CollectionsSortedList.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsSortedList\CollectionsSortedList\obj\Debug\net6.0\ref\CollectionsSortedList.dll
